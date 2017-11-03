@@ -14,7 +14,7 @@ Install
 
 Usage
 =====
-        >> addpath('trmf-core/matlab') % or addpath('trmf-core/octave');
+        >> addpath('grmf-core/matlab') % or addpath('grmf-core/octave');
         >> glr_mf_train                  
         Usage: [W' H' rmse walltime] = glr_mf_train(Y, testY, A, B [,
                 'options'])
